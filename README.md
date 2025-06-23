@@ -79,8 +79,8 @@ Used Language: **Java**
 - 🏅 **Dean’s Honours List**, Faculty of Engineering — *June 2025*  
 - 🏅 **Dean’s Honours List**, Faculty of Engineering — *May 2024*  
 - 🎓 **Industry-Based Learning (IBL) Placement Scholarship** — *July 2024*  
-- 🏆 **Academic Commendation**: Highest Grade in *FIT2081: Mobile Application Development*  
-- 🎓 **Engineering International Undergraduate Excellence Scholarship**
+- 🏆 **Academic Commendation**: Highest Grade in *FIT2081: Mobile Application Development* - *May 2024*
+- 🎓 **Engineering International Undergraduate Excellence Scholarship** - *June 2020*
 
 <br><br>
 
