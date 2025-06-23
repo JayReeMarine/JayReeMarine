@@ -28,7 +28,7 @@ Currently, I’m exploring various IT industry roles to broaden my experience an
 
 <img src="https://github.com/user-attachments/assets/d06215ad-51ff-468f-b31d-a15494f40a63" width="160" alt="Coles Group Logo" />
 
-<i>2024.07 – Present</i>  
+<i>2024.07 – 2024.12</i>  
 **IT Analyst - Hardware Coordinator Intern, [Coles Group](https://www.linkedin.com/company/colesgroup/posts/?feedView=all) (Melbourne, Australia)**  
 - Coordinated IT hardware lifecycle management across multiple stores.
 - Monitored and managed hardware deployments and upgrades.
@@ -47,6 +47,33 @@ Currently, I’m exploring various IT industry roles to broaden my experience an
 
 <br><br>
 
+## PROJECTS
+
+**JobSearch.Work Web Development Project** <i style="float: right; color: #828282;">2025.05 – Present</i>  
+Developing a web application for a startup focused on automating job search and matching processes.  
+As an early-stage startup project, contributed across multiple functionalities from front-end UI to backend integration.  
+Used Language/Framework: **TypeScript, Tailwind CSS, Firebase**  
+<a href="https://jsw-dev.web.app/">Live Website</a>  
+
+**Redesign Local Business Website (Glory Auto)** <i style="float: right; color: #828282;">2025.06 – Present</i>  
+Redesigned and developed the website for a local mechanic workshop in Australia to improve functionality, modernise design, and enhance usability.  
+Used Language/Framework: **HTML, CSS, JavaScript, PHP**  
+<a href="https://github.com/JayReeMarine/Mechanic-Workshop-Page">GitHub Repo</a>  
+
+**PressUp Project** <i style="float: right; color: #828282;">2025.03 – Present</i>  
+Developed an all-in-one café management software to support small business owners in efficiently managing operations.  
+Year-long industry project involving continuous development based on stakeholder requirements.  
+Used Language/Framework: **TypeScript, Tailwind CSS, MongoDB, Meteor, Docker**  
+<a href="https://github.com/Monash-FIT3170/2025W2-PressUp">GitHub Repo</a>  
+
+**Santorini Game Project** <i style="float: right; color: #828282;">2025.03 – 2025.06</i>  
+Developed a fully functional Santorini board game application using Java Swing, with a strong focus on object-oriented principles, architecture, and clean code structure.  
+Implemented full game rules, UI/UX, and features supporting SOLID design principles.  
+Used Language: **Java**  
+<a href="https://github.com/JayReeMarine/Santorini-Game">GitHub Repo</a>  
+
+<br><br>
+
 ## AWARDS & SCHOLARSHIPS
 
 - 🏅 **Dean’s Honours List**, Faculty of Engineering — *June 2025*  
@@ -57,4 +84,5 @@ Currently, I’m exploring various IT industry roles to broaden my experience an
 
 <br><br>
 
-## PROJECTS
+
+
