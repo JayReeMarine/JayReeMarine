@@ -21,7 +21,7 @@ Currently, I’m exploring various IT industry roles to broaden my experience an
 **Full Stack Developer Intern, [JobSearch.Work](https://www.linkedin.com/company/job-search-works/posts/?feedView=all) (Melbourne, Australia)**  
 - Developed and maintained web applications for job matching platforms.
 - Worked with TypeScript, React, Firebase, and Tailwind CSS.
-- Improved front-end UI responsiveness and performance.
+- Set up GitHub Actions for CI/CD to automate testing, linting, and deployment workflows.
 - Integrated RESTful APIs and optimised database queries for better scalability.
 
 <br><br>
@@ -69,7 +69,7 @@ Used Language/Framework: **TypeScript, Tailwind CSS, MongoDB, Meteor, Docker**
 **Santorini Game Project** <i style="float: right; color: #828282;">2025.03 – 2025.06</i>  
 Developed a fully functional Santorini board game application using Java Swing, with a strong focus on object-oriented principles, architecture, and clean code structure.  
 Implemented full game rules, UI/UX, and features supporting SOLID design principles.  
-Used Language: **Java**  
+Used Language: **Java (Swing)**  
 <a href="https://github.com/JayReeMarine/Santorini-Game">GitHub Repo</a>  
 
 <br><br>
