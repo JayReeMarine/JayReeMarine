@@ -55,10 +55,24 @@ As an early-stage startup project, contributed across multiple functionalities f
 Used Language/Framework: **TypeScript, Tailwind CSS, Firebase**  
 <a href="https://jsw-dev.web.app/">Live Website</a>  
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/37567508-efde-4b32-9081-f73758467ff2" width="45%" />
+  &nbsp;
+  <img src="https://github.com/user-attachments/assets/731f5ba2-d5df-49c1-9c7a-e974a103b378" width="45%" />
+</p>
+
+
 **Redesign Local Business Website (Glory Auto)** <i style="float: right; color: #828282;">2025.06 – Present</i>  
 Redesigned and developed the website for a local mechanic workshop in Australia to improve functionality, modernise design, and enhance usability.  
 Used Language/Framework: **HTML, CSS, JavaScript, PHP**  
 <a href="https://github.com/JayReeMarine/Mechanic-Workshop-Page">GitHub Repo</a>  
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/dd68f262-a46d-4c5f-9847-a146b35b5fc0" width="45%" />
+  &nbsp;
+  <img src="https://github.com/user-attachments/assets/696ba7b9-ee73-4806-85e5-7f3c036f0b85" width="45%" />
+</p>
+
 
 **PressUp Project** <i style="float: right; color: #828282;">2025.03 – Present</i>  
 Developed an all-in-one café management software to support small business owners in efficiently managing operations.  
@@ -66,11 +80,22 @@ Year-long industry project involving continuous development based on stakeholder
 Used Language/Framework: **TypeScript, Tailwind CSS, MongoDB, Meteor, Docker**  
 <a href="https://github.com/Monash-FIT3170/2025W2-PressUp">GitHub Repo</a>  
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/0d735ee6-9e54-4a09-957a-e54035de942e" width="45%" />
+</p>
+
+
 **Santorini Game Project** <i style="float: right; color: #828282;">2025.03 – 2025.06</i>  
 Developed a fully functional Santorini board game application using Java Swing, with a strong focus on object-oriented principles, architecture, and clean code structure.  
 Implemented full game rules, UI/UX, and features supporting SOLID design principles.  
 Used Language: **Java (Swing)**  
 <a href="https://github.com/JayReeMarine/Santorini-Game">GitHub Repo</a>  
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/545c2459-39cc-4f0d-b5ce-33859af6e941" width="45%" />
+  &nbsp;
+  <img src="https://github.com/user-attachments/assets/16ceae2f-3501-4af4-88d0-97e3e18214e6" width="45%" />
+</p>
 
 <br><br>
 
