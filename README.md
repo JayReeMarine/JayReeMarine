@@ -8,7 +8,7 @@ Currently, I’m exploring various IT industry roles to broaden my experience an
 <div>
   <a href="https://github.com/JayReeMarine/"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white&" style="height: 25px; display: inline-block;"></a>
   <a href="https://www.linkedin.com/in/jaeyun-ree-75b17b26b/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white&" style="height: 25px; display: inline-block;"></a>
-  <a href="https://www.instagram.com/jaeyunree22/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white&" style="height: 25px; display: inline-block;"></a>
+  <a href="https://www.instagram.com/jaeyunree/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white&" style="height: 25px; display: inline-block;"></a>
 </div>
 
 <br><br>
