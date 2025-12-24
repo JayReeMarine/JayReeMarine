@@ -15,6 +15,18 @@ Currently, I’m exploring various IT industry roles to broaden my experience an
 
 ## IT EXPERIENCE
 
+<img src="https://github.com/user-attachments/assets/7a42e82a-1cf5-465c-9b52-0f057385a6d6" width="160" alt="Monash University Logo" />
+
+<i>2025.11 – Present</i>  
+**Research Assistant, Monash University (Clayton, Australia)**  
+<i>Project: Integrating Multi-Type Autonomous Vehicles for Sustainable Urban Mobility</i>
+
+- Contributed to the design of algorithms that optimise how autonomous vehicles dynamically merge, detach, and form efficient travel “pools” based on shared routes, capacity constraints, and energy usage.
+- Implemented early prototypes for online decision-making models aimed at reducing CO₂ emissions by minimising the number of active engines across multi-type vehicle fleets.
+- Collaborated closely with supervisor **Dr. Eunus Ali** to refine the project problem statement, define evaluation metrics, and prepare simulation frameworks for future research outputs.
+
+<br><br>
+
 <img src="https://github.com/user-attachments/assets/717385ac-32aa-494a-b948-58e876deaf3f" width="140" alt="JobSearch.Work Logo" />
 
 <i>2025.04 – Present</i>  
@@ -43,7 +55,7 @@ Currently, I’m exploring various IT industry roles to broaden my experience an
 
 <i>2020.07 – Present</i>  
 **Bachelor of Software Engineering (Honours), [Monash University](https://www.monash.edu/), Australia**  
-- GPA: **3.895 / 4.000**
+- GPA: **3.769 / 4.000**
 
 <br><br>
 
