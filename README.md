@@ -15,7 +15,7 @@ Currently, I’m exploring various IT industry roles to broaden my experience an
 
 ## IT EXPERIENCE
 
-<<img src="https://github.com/user-attachments/assets/7a42e82a-1cf5-465c-9b52-0f057385a6d6" width="160" alt="Monash University Logo" />
+<img src="https://github.com/user-attachments/assets/7a42e82a-1cf5-465c-9b52-0f057385a6d6" width="160" alt="Monash University Logo" />
 
 <i>2025.11 – Present</i>  
 **Research Assistant, Monash University (Clayton, Australia)**  
@@ -37,7 +37,7 @@ to refine the project problem statement, define evaluation metrics, and prepare 
 
 <img src="https://github.com/user-attachments/assets/717385ac-32aa-494a-b948-58e876deaf3f" width="140" alt="JobSearch.Work Logo" />
 
-<i>2025.04 – Present</i>  
+<i>2025.04 – 2025.11</i>  
 **Full Stack Developer Intern, [JobSearch.Work](https://www.linkedin.com/company/job-search-works/posts/?feedView=all) (Melbourne, Australia)**  
 - Developed and maintained web applications for job matching platforms.
 - Worked with TypeScript, React, Firebase, and Tailwind CSS.
